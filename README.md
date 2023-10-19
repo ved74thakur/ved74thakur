@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ved74thakur
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning react-native
+- 👀 I do full fullstack
+- 🌱 I’m currently learning react
 - 📫 How to reach me : Instagram: ved74thakur
 
 <!---
