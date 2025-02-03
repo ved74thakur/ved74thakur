@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ved74thakur
 - 👀 I do full fullstack
-- 💻 Good with Java, Python, C# ASP.NET Core, React, Typescript and SQL
+- 📖 Research Interest: Reinforcement Learning, Artificial Intelligence, Computer Vision.
+- 💻 Good with Machine Learning, Java, Python, C# ASP.NET Core, React, Typescript and SQL
 - 📫 How to reach me : LinkedIn: www.linkedin.com/in/ved-thakur
 
 <!---
